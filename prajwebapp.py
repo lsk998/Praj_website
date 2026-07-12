@@ -30,5 +30,3 @@ st.write("---")
 st.write("Get in touch with me:wave:")
 st.write("[Email>] prajwalkapade@outlook.com")
 st.write("Mob:8767349768")
-
-ctural 
