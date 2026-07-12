@@ -11,7 +11,7 @@ st.set_page_config(page_title="Mywebpage",page_icon=":tada:",layout="wide")
 #header 
 st.subheader ("Hi,I am Prajwal :wave:")
 st.title("Structural Engineer from India")
-st.write("I am passionate about AI and Data Science and Architechture")
+st.write("I am passionate about Structural and Architechture Engineering")
 st.write("[Learn more LinkedIn>](https://www.linkedin.com/in/prajwal-kapade-b08b201a7/)")
 
 #what are the services I provide
@@ -31,3 +31,4 @@ st.write("Get in touch with me:wave:")
 st.write("[Email>] prajwalkapade@outlook.com")
 st.write("Mob:8767349768")
 
+ctural 
